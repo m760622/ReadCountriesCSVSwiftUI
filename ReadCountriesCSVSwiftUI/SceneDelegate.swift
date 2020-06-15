@@ -1,10 +1,10 @@
-//
+//https://github.com/m760622
 //  SceneDelegate.swift
 //  ReadCountriesCSVSwiftUI
-//
+// m7606225@gmail.com
 //  Created by Mohammed Abunada on 2020-06-15.
 //  Copyright © 2020 NMDS. All rights reserved.
-//
+//https://github.com/m760622/ReadCountriesCSVSwiftUI
 
 import UIKit
 import SwiftUI
